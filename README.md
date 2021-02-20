@@ -1,4 +1,22 @@
-### Hi there 👋
+### Tech Stack 
+
+######개발 언어
+Javascript 
+
+######개발 환경
+NPM Babel ESLint
+
+######Front_End
+React Redux
+
+######Back_End
+Node.js Express.js
+
+######Database
+MySQL
+
+######default
+Sketch Photoshop Illustrator Preimier AfterEffect Indesign 
 
 <!--
 **Juhye-Kim/Juhye-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
