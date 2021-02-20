@@ -1,7 +1,7 @@
-### I’m currently learning ... 🔥
+## Tech Stack 🛠
 
 ##### 개발 언어
-Javascript 
+Javascript Python
 
 ##### 개발 환경
 NPM Babel ESLint
@@ -13,7 +13,7 @@ React Redux
 Node.js Express.js
 
 ##### Database
-MySQL
+MySQL MongoDB Mongoose
 
 ##### default
 Sketch Photoshop Illustrator Preimier AfterEffect Indesign 
