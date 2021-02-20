@@ -1,21 +1,21 @@
 ### Tech Stack 
 
-###개발 언어
+###### 개발 언어
 Javascript 
 
-###개발 환경
+###### 개발 환경
 NPM Babel ESLint
 
-###Front_End
+### Front_End
 React Redux
 
-###Back_End
+### Back_End
 Node.js Express.js
 
-###Database
+### Database
 MySQL
 
-###default
+### default
 Sketch Photoshop Illustrator Preimier AfterEffect Indesign 
 
 <!--
