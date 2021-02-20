@@ -1,4 +1,4 @@
-### I’m currently learning ...
+### I’m currently learning ... 🔥
 
 ##### 개발 언어
 Javascript 
