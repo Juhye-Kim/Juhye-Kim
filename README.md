@@ -10,10 +10,10 @@
 <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 
 ##### Database
-<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> Mongoose
+<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 
 ##### default
-<img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/> Preimier AfterEffect Indesign 
+<img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white"/> <img src="https://img.shields.io/badge/AfterEffects-9999FF?style=flat-square&logo=Adobe-After-Effects&logoColor=white"/> <img src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=Adobe-InDesign&logoColor=white"/> <img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat-square&logo=Rhinoceros&logoColor=white"/>
 
 <!--
 <p align="center">
