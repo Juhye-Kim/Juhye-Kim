@@ -1,5 +1,16 @@
 ## Tech Stack 🛠
 
+**Languages**   Javascript(ES6+), Typescript, Python, HTML, CSS
+
+**Front-End**   React(hooks), Redux
+
+**Back-End**   Node.js, Express, MySQL, Sequeilize
+
+**Others**   AWS(EC2, S3, RDS), Git, Postman, Sketch, Photoshop, Illustrator
+
+
+<!--
+
 ##### Languages
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 
@@ -16,8 +27,6 @@
 <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white"/> 
 <img src="https://img.shields.io/badge/AfterEffects-9999FF?style=flat-square&logo=Adobe-After-Effects&logoColor=white"/> <img src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=Adobe-InDesign&logoColor=white"/> <img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat-square&logo=Rhinoceros&logoColor=white"/>
 
-
-<!--
 <p align="center">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
