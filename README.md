@@ -2,7 +2,7 @@
 
 **Languages**   Javascript(ES6+), Typescript, Python, HTML, CSS
 
-**Front-End**   React(hooks), Redux
+**Front-End**   React(hooks), Redux, styled-components
 
 **Back-End**   Node.js, Express, MySQL, Sequeilize
 
